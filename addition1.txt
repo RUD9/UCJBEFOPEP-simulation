@@ -1,4 +1,3 @@
-Статический метод rotate_point() - поворот точки:
 @staticmethod
 def rotate_point(point, angle_deg):
     # Создание матрицы поворота вокруг оси X
